@@ -35,7 +35,7 @@ fun PlayActivity(
         SectionHeader()
 
 
-        Spacer(modifier = Modifier.padding(8.dp))
+        Spacer(modifier = Modifier.padding(8.dp)) //space
         Text(text = "Kepada Yth :", Modifier.padding(start = 15.dp))
         Text(text = "Bapak/Ibu Dosen", Modifier.padding(start = 15.dp))
 
